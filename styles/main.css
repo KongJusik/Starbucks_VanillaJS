@@ -667,3 +667,30 @@ header .badges .badge {
 .season-product .text-group .description {
   margin-bottom: 15px;
 }
+
+/* RESERVE COFFEE */
+.reserve-coffee {
+  background-image: url("/resources/reserve_bg.jpg");
+}
+
+.reserve-coffee .inner {
+  height: 400px;
+}
+
+.reserve-coffee .reserve-logo {
+  top: 110px;
+  left: 0;
+  position: absolute;
+}
+
+.reserve-coffee .text-group {
+  top: 124px;
+  left: 208px;
+  position: absolute;
+}
+
+.reserve-coffee .product {
+  top: 0;
+  right: 0;
+  position: absolute;
+}
