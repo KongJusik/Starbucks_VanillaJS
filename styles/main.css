@@ -1007,7 +1007,7 @@ footer .logo {
   width: 42px;
   height: 42px;
   bottom: 30px;
-  right: 30px;
+  right: -70px;
   z-index: 9;
   border: 2px solid #fff;
   border-radius: 10px;

@@ -28,7 +28,7 @@ window.addEventListener(
       });
       // 버튼 보이기
       gsap.to(toTopEl, 0.2, {
-        x: 0,
+        x: -100,
       });
     } else {
       // 배지 보이기
@@ -38,7 +38,7 @@ window.addEventListener(
       });
       // 버튼 숨기기
       gsap.to(toTopEl, 0.2, {
-        x: 100,
+        x: 0,
       });
     }
   }, 300)
